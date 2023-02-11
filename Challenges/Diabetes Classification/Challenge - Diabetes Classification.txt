@@ -1,0 +1,37 @@
+Challenge - Diabetes Classification
+Diabetes Challenge!
+Machine Learning in Health
+Diabetes is a condition that impairs the body's ability to process blood glucose, otherwise known as blood sugar. In the United States, the estimated number of people over 18 years of age with diagnosed and undiagnosed diabetes is 30.2 million. The figure represents between 27.9 and 32.7 percent of the population.
+
+Without ongoing, careful management, diabetes can lead to a buildup of sugars in the blood, which can increase the risk of dangerous complications, including stroke and heart disease.
+
+Different kinds of diabetes can occur, and managing the condition depends on the type. Not all forms of diabetes stem from a person being overweight or leading an inactive lifestyle. In fact, some are present from childhood.
+
+drawing
+
+Challenge
+
+In this problem you are given a Diabetes Data set consisting of following features -
+
+['Pregnancies', 'Glucose', 'BloodPressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age', 'Outcome']
+
+and your task is to predict whether a person is suffering from diabetes or not (Binary Classification)
+
+Tasks
+
+1) Plot a bar graph showing number of classes and no of examples in each class.
+
+2) Classification Task, classify a person as 0 or 1 (Diabetic or Not) using K-Nearest Neighbors classifier.
+
+Download the training data set and submit your predictions as .csv for the Test cases given below. Sample Output file is provided
+
+Before submitting please check the list below:
+
+The column names or headers of submission file must match with that given in sample submission file.
+
+Datatype of the columns of submission file must match with that of the given sample_submission file.
+
+The number of rows must be equal to given test cases and number of columns must be equal to the columns given in the sample submission file.
+
+Scoring & Leaderboard
+Maximum Score for this problem is 100 points. You accuracy in classification task rounded off to nearest integer becomes your final score.
