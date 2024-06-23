@@ -1,0 +1,25 @@
+K-nearest neighbour
+linear regression
+logistic regression
+decision tree
+
+naive bayes classifier
+laplace smoothing base
+multivariant bernouli naive bayes model
+multinominal event bayes model
+
+clustering - kmeans
+random forest
+
+SVM
+perceptron
+
+MLP
+CNN
+RNN
+LSTM
+RL (q-learning)
+GAN (generative adverserial network)
+
+
+Arcing algorithm -> Adaboost - arc-x4 - Ji and Ma[1997]

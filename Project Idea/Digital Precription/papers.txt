@@ -1,0 +1,5 @@
+https://arxiv.org/ftp/arxiv/papers/2210/2210.11666.pdf
+https://github.com/Aniket025/Medical-Prescription-OCR
+https://ieee-dataport.org/documents/dataset-classification-handwritten-and-printed-text-doctors-prescription
+https://keras.io/examples/vision/captcha_ocr/
+https://keras.io/examples/vision/handwriting_recognition/
